@@ -1,0 +1,204 @@
+*
+{
+margin:0;
+padding:0;	
+}
+body
+{
+	background-color:rgba(218, 221, 225,1);
+	height:800px;
+}
+
+
+.div1 nav
+{
+	background-color:rgba(59, 89, 152,1);
+}
+
+
+
+.div1 ul 
+{
+	list-style:none;
+	overflow:auto;
+	margin-right:100px;
+	
+	
+}
+.div1 ul li
+{
+	float:right;
+	padding: 10px 20px;
+
+}
+.div1 ul li a
+    {
+        color: #fff;
+        text-decoration: none;
+        font-size: 18px;
+    }
+	
+.div1 button
+{
+margin-top:23px;
+	background-color:rgb(102, 102, 255);
+border:1px brown solid;
+color:white;
+width:50px;
+	
+}
+.div1 p
+{
+	color:white;
+	margin-top:8px;
+}
+
+.div1  ul  .facebook
+{
+	float:left;
+}
+
+.facebook
+{
+font-size:40px;
+color:white;	
+margin-left:150px;
+margin-top:12px;
+}
+
+.div2
+{
+	width:45%;
+	float:right;
+	text-align:left;
+	
+	
+	
+}
+h1
+{
+	margin-top:30px;
+	font-size:45px;
+}
+
+.p1
+{
+	font-size:25px;
+}
+.p2
+{
+	margin-top:20px;
+	color:rgb(128, 128, 255);
+	font-size:20px;
+	
+}
+.p3
+{
+	margin-top:20px;
+	width:400px;
+}
+.p4
+{
+	margin-top:20px;
+	color:rgb(128, 128, 255);
+}
+.p5
+{
+	margin-top:30px  ;
+	margin-left:150px;
+	font-size:45px;
+}
+.p6
+{
+	margin-top:25px  ;
+	margin-left:150px;
+    font-size:25px;
+	
+}
+
+.input1
+
+{
+	height:30px;
+	padding-left:10px;
+	margin-left:10px;
+	margin-top:10px;
+		font-size:20px;
+width:200px;
+}
+
+.input2
+{
+	width:100%;
+		margin-top:10px;
+	margin-left:10px;
+	height:30px;
+	padding-left:10px;
+	font-size:20px;
+	width:429px;
+
+}
+select
+{
+	margin-top:10px;
+	width:60px;
+	height:30px;
+}
+span
+{
+	font-size:20px;
+	margin-left:15px;
+}
+
+.button2
+{
+	margin-top:30px;
+	text-align:center;
+	background-color:rgb(64, 191, 64);
+	width:200px;
+	height:40px;
+	border-radius:10px;
+	font-size:20px;
+	color:white;
+		
+}
+.button2:hover
+{
+	cursor:pointer;
+}
+
+.div3 
+{
+	
+	width:150px;
+	height:200px;
+	margin-left:150px;
+	margin-top:20px;
+	border:solid black 1px;
+background-color:rgb(216, 243, 216);
+
+}
+
+.div3 img
+{
+		width:50px;
+	height:50px;
+	padding-top:60px;
+	padding-left:50px;
+
+	
+}
+.div3 p
+{
+	padding-top:60px;
+	padding-left:35px;
+	font-size:18px;
+	color:rgb(128, 128, 255);
+}
+
+.div3:hover
+{
+	cursor:pointer;
+}
+
+	
